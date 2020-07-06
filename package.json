@@ -1,0 +1,23 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "teamprofile generator app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jawnkwan/10-Team-Profile-GeneratorJonKwan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jawnkwan/10-Team-Profile-GeneratorJonKwan/issues"
+  },
+  "homepage": "https://github.com/jawnkwan/10-Team-Profile-GeneratorJonKwan#readme",
+  "dependencies": {
+    "inquirer": "^7.3.0"
+  },
+  "devDependencies": {}
+}
